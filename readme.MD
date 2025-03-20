@@ -26,3 +26,11 @@ sh get-docker.sh
 
 apt-get install build-essential
 ```
+
+
+
+```sh
+ssh-keygen
+eval `ssh-agent -s`
+ssh-add
+```
